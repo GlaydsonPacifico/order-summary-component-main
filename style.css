@@ -153,4 +153,12 @@ footer{
   .text-content {
     padding: 9% 7%;
   }
+
+  .footer {
+    padding: 10px;
+  }
+
+  .attribution {
+    font-size: 9px;
+  }
 }

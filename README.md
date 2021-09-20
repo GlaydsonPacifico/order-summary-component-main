@@ -34,7 +34,7 @@ Users should be able to:
 
 ## My process
 
-I started out just laying everything out. The challenge had some starter code i had to put into tags. After i got the basic layout done i started to add style to make it look like the part. I designed for mobile first then just used media queries to make it fir for desktop. After all that was done i added the hover state to make the website more interactive and then i finished it up with the background image.
+I started out just laying everything out. The challenge had some starter code i had to put into tags. After i got the basic layout done i started to add style to make it look like the part.
 
 ### Built with
 
